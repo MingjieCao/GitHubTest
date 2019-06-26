@@ -1,13 +1,19 @@
 package com.gec.domain;
 
 public interface Test {
-	//跑步
+	// 跑步
 	void run();
-	//吃
+
+	// 吃
 	void eat();
-	
-	//l
+
+	// l
 	void lisi();
+
 	//
 	void play();
+
+	//TestGIThUB
+	void github();
+
 }
