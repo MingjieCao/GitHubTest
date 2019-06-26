@@ -8,4 +8,6 @@ public interface Test {
 	
 	//l
 	void lisi();
+	//
+	void play();
 }
