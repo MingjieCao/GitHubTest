@@ -10,4 +10,7 @@ public interface Test {
 	void lisi();
 	//
 	void play();
+	
+	//主分支
+	void play1();
 }
