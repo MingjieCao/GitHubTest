@@ -1,8 +1,6 @@
 package com.gec.domain;
 
-public class Test {
-	public static void main(String[] args) {
-		
-	}
-
+public interface Test {
+	//跑步
+	void run();
 }
