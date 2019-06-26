@@ -5,4 +5,7 @@ public interface Test {
 	void run();
 	//吃
 	void eat();
+	
+	//l
+	void lisi();
 }
